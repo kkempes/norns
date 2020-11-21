@@ -1,2 +1,2 @@
 # norns
-my develop and customization for monome/norns
+my develops and customizations for monome/norns
