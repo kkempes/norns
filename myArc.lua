@@ -1,5 +1,6 @@
------myarc
------turn encoders to see numbers
+--myarc
+--turn encoders to see numbers
+-- v1.0 @kkempes
 
 local a = arc.connect()
 
