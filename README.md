@@ -1,2 +1,2 @@
-# norns
-my develops and customizations for monome/norns
+# norns/ARC
+educational lua script to import ARC features into lua language
